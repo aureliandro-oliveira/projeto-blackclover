@@ -37,7 +37,7 @@
 
 }
 
-@media (max-width: 300px) {
+@media (max-width: 425px) {
     main .personagem .imagem {
         height: auto;
     }
